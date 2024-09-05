@@ -1,0 +1,14 @@
+C:\Users\helal\OneDrive\Bureau\Optique\Optique-Domaine\bin\Release\net7.0\Optique-Domaine.deps.json
+C:\Users\helal\OneDrive\Bureau\Optique\Optique-Domaine\bin\Release\net7.0\Optique-Domaine.runtimeconfig.json
+C:\Users\helal\OneDrive\Bureau\Optique\Optique-Domaine\bin\Release\net7.0\Optique-Domaine.dll
+C:\Users\helal\OneDrive\Bureau\Optique\Optique-Domaine\bin\Release\net7.0\Optique-Domaine.pdb
+C:\Users\helal\OneDrive\Bureau\Optique\Optique-Domaine\obj\Release\net7.0\Optique-Domaine.csproj.AssemblyReference.cache
+C:\Users\helal\OneDrive\Bureau\Optique\Optique-Domaine\obj\Release\net7.0\Optique-Domaine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helal\OneDrive\Bureau\Optique\Optique-Domaine\obj\Release\net7.0\Optique-Domaine.AssemblyInfoInputs.cache
+C:\Users\helal\OneDrive\Bureau\Optique\Optique-Domaine\obj\Release\net7.0\Optique-Domaine.AssemblyInfo.cs
+C:\Users\helal\OneDrive\Bureau\Optique\Optique-Domaine\obj\Release\net7.0\Optique-Domaine.csproj.CoreCompileInputs.cache
+C:\Users\helal\OneDrive\Bureau\Optique\Optique-Domaine\obj\Release\net7.0\Optique-Domaine.dll
+C:\Users\helal\OneDrive\Bureau\Optique\Optique-Domaine\obj\Release\net7.0\refint\Optique-Domaine.dll
+C:\Users\helal\OneDrive\Bureau\Optique\Optique-Domaine\obj\Release\net7.0\Optique-Domaine.pdb
+C:\Users\helal\OneDrive\Bureau\Optique\Optique-Domaine\obj\Release\net7.0\Optique-Domaine.genruntimeconfig.cache
+C:\Users\helal\OneDrive\Bureau\Optique\Optique-Domaine\obj\Release\net7.0\ref\Optique-Domaine.dll

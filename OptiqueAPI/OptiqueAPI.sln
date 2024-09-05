@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OptiqueAPI", "OptiqueAPI.csproj", "{652D2D94-F800-448A-B4D2-9B12F0D52F2F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Optique-Domaine", "..\Optique-Domaine\Optique-Domaine.csproj", "{7E102507-23C2-448F-B083-26D94CAD9A50}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "..\Optique-Infrastructure\Infrastructure.csproj", "{DCFDAA2E-6DC6-4F2B-9207-7C04DD6B9424}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5D586DF7-EDC4-4A08-BA16-DE3BA6AB9564}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "..\Core\Core.csproj", "{FF17C62A-F5CA-4C47-AEFB-C202B9890499}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{652D2D94-F800-448A-B4D2-9B12F0D52F2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{652D2D94-F800-448A-B4D2-9B12F0D52F2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{652D2D94-F800-448A-B4D2-9B12F0D52F2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{652D2D94-F800-448A-B4D2-9B12F0D52F2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E102507-23C2-448F-B083-26D94CAD9A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E102507-23C2-448F-B083-26D94CAD9A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E102507-23C2-448F-B083-26D94CAD9A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E102507-23C2-448F-B083-26D94CAD9A50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCFDAA2E-6DC6-4F2B-9207-7C04DD6B9424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCFDAA2E-6DC6-4F2B-9207-7C04DD6B9424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCFDAA2E-6DC6-4F2B-9207-7C04DD6B9424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCFDAA2E-6DC6-4F2B-9207-7C04DD6B9424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF17C62A-F5CA-4C47-AEFB-C202B9890499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF17C62A-F5CA-4C47-AEFB-C202B9890499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF17C62A-F5CA-4C47-AEFB-C202B9890499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF17C62A-F5CA-4C47-AEFB-C202B9890499}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {308826F5-88E5-4DBE-B2BC-BCAC967CE5DB}
+	EndGlobalSection
+EndGlobal

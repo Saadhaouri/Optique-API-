@@ -1,0 +1,14 @@
+C:\Users\helal\OneDrive\Bureau\Optique\Optique-Core\bin\Debug\net7.0\Optique-Core.deps.json
+C:\Users\helal\OneDrive\Bureau\Optique\Optique-Core\bin\Debug\net7.0\Optique-Core.runtimeconfig.json
+C:\Users\helal\OneDrive\Bureau\Optique\Optique-Core\bin\Debug\net7.0\Optique-Core.dll
+C:\Users\helal\OneDrive\Bureau\Optique\Optique-Core\bin\Debug\net7.0\Optique-Core.pdb
+C:\Users\helal\OneDrive\Bureau\Optique\Optique-Core\obj\Debug\net7.0\Optique-Core.csproj.AssemblyReference.cache
+C:\Users\helal\OneDrive\Bureau\Optique\Optique-Core\obj\Debug\net7.0\Optique-Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helal\OneDrive\Bureau\Optique\Optique-Core\obj\Debug\net7.0\Optique-Core.AssemblyInfoInputs.cache
+C:\Users\helal\OneDrive\Bureau\Optique\Optique-Core\obj\Debug\net7.0\Optique-Core.AssemblyInfo.cs
+C:\Users\helal\OneDrive\Bureau\Optique\Optique-Core\obj\Debug\net7.0\Optique-Core.csproj.CoreCompileInputs.cache
+C:\Users\helal\OneDrive\Bureau\Optique\Optique-Core\obj\Debug\net7.0\Optique-Core.dll
+C:\Users\helal\OneDrive\Bureau\Optique\Optique-Core\obj\Debug\net7.0\refint\Optique-Core.dll
+C:\Users\helal\OneDrive\Bureau\Optique\Optique-Core\obj\Debug\net7.0\Optique-Core.pdb
+C:\Users\helal\OneDrive\Bureau\Optique\Optique-Core\obj\Debug\net7.0\Optique-Core.genruntimeconfig.cache
+C:\Users\helal\OneDrive\Bureau\Optique\Optique-Core\obj\Debug\net7.0\ref\Optique-Core.dll
